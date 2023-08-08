@@ -10,18 +10,18 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6282389924037', '美Vynaa', true] //Ganti aja
+['6282181426210', '美NasXz', true] //Ganti aja
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6282389924037' //Ganti
+global.nomorwa = '6282181426210' //Ganti
 global.packname = '© Sticker by'
-global.author = 'Yaemiko-MD'
-global.namebot = 'Yaemiko - MD'
-global.wm = '© Yaemiko MD By VynaChan'
+global.author = 'Bot Wa'
+global.namebot = 'SirXz - MD'
+global.wm = '© NasXz'
 global.stickpack = '© Sticker by'
-global.stickauth = 'Yaemiko-MD'
+global.stickauth = 'Bot Wa'
 // Link Sosmed
 global.sig = 'https://instagram.com/_xwby_?igshid=ZDc4ODBmNjlmNQ=='
 global.sgh = 'https://github.com/Xyroinee'
@@ -35,7 +35,7 @@ global.wait = '⏳ Proses...'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
 global.multiplier = 69 
 // Apikey
-global.xyro = 'j9XFN6zChx'
+global.xyro = 'QOtHFkrfMP'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
@@ -48,7 +48,7 @@ global.APIs = {
 
 /*Apikey*/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "j9XFN6zChx",
+    "https://api.xyroinee.xyz": "QOtHFkrfMP",
 }
 
 let file = fileURLToPath(import.meta.url)

@@ -4,8 +4,8 @@ let sewa = `Hai Kak, Ingin Donasi?, Silahkan Donasi Ke Payment Yang Ada Di Bawah
 
 
 ❏──「 *Payment* 」
-│ • *Ovo:* 0823-8992-4037
-│ • *Dana:* 0823-8992-4047
+│ • *GoPay:* 082124032963
+│ • *Dana:* 082124032963
 ❏──────────────๑
 Terima Kasih Yang Sudah Donasi, Berapapun Donasi Kamu Akan Sangat Saya Hargain >,<
 `

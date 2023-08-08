@@ -363,11 +363,13 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
 - Autoread
 
 
-Contoh Aktif: .on welcome
+Contoh Aktif: .on autosticker
 Untuk Mengaktifkan
 
-Contoh Nonaktif: .off welcome
+Contoh Nonaktif: .off autosticker
 Untuk Menonaktifkan
+
+*Tidak bisa untuk mengaktifkan cintanya kepadamu*
 `.trim())
       throw false
   }
